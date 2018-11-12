@@ -7,7 +7,7 @@ Spotify , Bands in town and OMDB.
 *The list of actions required for each individual search goes as followed:*
 * movie-this = search information about movies (#1example: movie-this Blade)
 * concert-this = search next available concerts (#2example: concert-this Bad Bunny)
-* spotify-this-song = search top 5 songs related to search (#3example: spotify-this-song Te bote)
+* spotify-this-song = search top 5 songs related to search and include the link to it. (#3example: spotify-this-song Te bote)
 
 *do-what-it-says = input and find out.
 
