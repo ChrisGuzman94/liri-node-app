@@ -142,7 +142,7 @@ function doIt() {
 
     
 
-    movie();
+    song();
   });
 
 }
