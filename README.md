@@ -1,6 +1,6 @@
-                                                               # liri-node-app
+ *#liri-node-app*
                                                                
-                   This is a node.js application for searching movies, concerts and songs by using API's from:
+ This is a node.js application for searching movies, concerts and songs by using API's from:
 
 Spotify , Bands in town and OMDB.
 
@@ -11,7 +11,7 @@ Spotify , Bands in town and OMDB.
 
 *do-what-it-says = input and find out.
 
-                                 *If you run any of these actions without value it will run the default for action used
+ *If you run any of these actions without value it will run the default for action used
 
 The majority of the calls will execute if you clone the repo and run liri.js file in the terminal.Except for the Spotify API which requires Client ID and Client secret. You must provide your own Keys in order to get it working properly. 
 
